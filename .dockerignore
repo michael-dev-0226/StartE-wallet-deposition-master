@@ -1,0 +1,9 @@
+data_folder
+build
+dist
+*egg-info*
+ui
+halocoin/build
+halocoin/dist
+halocoin/venv
+*.spec
